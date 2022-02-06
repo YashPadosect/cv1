@@ -1,0 +1,30 @@
+body {
+    background-color: #FBCAFF;
+}
+
+hr {
+    background-color: #FBCAFF;
+    border-color: #FFADF0;
+    border-style: dotted none none;
+    border-width: 6px;
+    /* color: #FFADF0; */
+    height: 0px;
+    width: 6%;
+}
+
+h1 {
+    /* background-color: aqua; */
+    color: #FC28FB;
+}
+
+h3 {
+    color: #FC28FB;
+}
+
+.yash {
+    background-color: #064635;
+}
+
+.yash:hover {
+    background-color: #CA965C;
+}
